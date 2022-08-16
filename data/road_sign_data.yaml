@@ -1,0 +1,9 @@
+train: /content/drive/My Drive/FYP/Yolotask/images/train/ 
+val:  /content/drive/My Drive/FYP/Yolotask/images/val/
+test: /content/drive/My Drive/FYP/Yolotask/images/test/
+
+# number of classes
+nc: 4
+
+# class names
+names: ["trafficlight","stop", "speedlimit","crosswalk"]
